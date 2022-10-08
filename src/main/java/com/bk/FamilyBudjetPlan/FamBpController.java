@@ -10,7 +10,7 @@ public class FamBpController {
     @RequestMapping("/FBP")
     public String Fambp()
     {
-        return "Family budjet begins here ";
+        return "Family budjet begins here git 1 ";
     }
 
 }
